@@ -3,7 +3,7 @@
 AION2 전투 분석 프로그램입니다.
 
 ## 다운로드
-👉 Releases에서 최신 버전을 다운로드하세요.
+👉 [최신 버전 다운로드](https://github.com/uz1uz23-tech/atwogg-release/releases)
 
 ## 라이선스
 This software includes code from:

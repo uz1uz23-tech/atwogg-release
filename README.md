@@ -11,7 +11,7 @@ AION2 전투 분석 프로그램입니다.
 
 3. **아이온이 켜져있는 상태라면 먼저 캐릭터 선택창으로 이동합니다**.
 
-4. 프로그램이 설치된 위치 (기본 설치 경로 C:\Program Files\AtwoGGMiter) 또는 시작 창의 바로가기에 AtwoGGMiter.exe 를 **반드시 관리자 권한으로 실행합니다.**
+4. 프로그램이 설치된 위치 (기본 설치 경로 C:\Program Files\AtwoGGMeter) 또는 시작 창의 바로가기에 AtwoGGMeter.exe 를 **반드시 관리자 권한으로 실행합니다.**
 
 
 ## 다운로드
